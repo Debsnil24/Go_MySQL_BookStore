@@ -46,13 +46,13 @@ Go to the project directory
 
 Install dependencies
 
-```bash
+```go
   go get "github.com/gorilla/mux"
 ```
-```bash
+```go
   go get "github.com/jinzhu/gorm"
 ```
-```bash
+```go
   go get "github.com/jinzhu/gorm/dialects/mysql"
 ```
 Start the server
@@ -62,11 +62,11 @@ Browse to the directory of main.go file
   cd {Directory}/Go_MySQL_BookStore/cmd/main
 ```
 Build the project
-```bash
+```go
   go build
 ```
 Run the main.go file
-```bash
+```go
   go run main.go
 ```
 
