@@ -70,3 +70,7 @@ Run the main.go file
   go run main.go
 ```
 
+## Acknowledgements
+
+#### Check Out Akhil Sharma's Youtube Video for Project Tutorial
+[GO And MYSQL - 2024 Project 🚀 💣 🔥 - Connect Go with Mysql / Build a Book Management System](https://youtu.be/1E_YycpCsXw?si=oLUV_plDs8y4i70s)
